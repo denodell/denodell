@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Den Odell
 
 **Frontend Architect · Author · Developer**  
-Building a faster, more accessible web.
+Built frontends used by millions. Wrote the books that teach others how.
 
 ---
 
