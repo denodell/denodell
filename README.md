@@ -7,7 +7,7 @@ Built web apps used by millions. Wrote the books that teach others how.
 
 I'm a web engineer with 25+ years of experience, specializing in fast, accessible, and scalable UI architecture.
 
-I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, and **MINI**, and authored two JavaScript books used in universities and cited in academic research. Today, I’m building tools that help developers ship better frontends out of the box.
+I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AKQA**, and **MINI**, and authored two JavaScript books used in universities and cited in academic research. Today, I’m building tools that help developers ship better frontends out of the box.
 
 ---
 
