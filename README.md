@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Den Odell
 
 **Frontend & Fullstack Architect · Author · Developer**  
-Built frontends used by millions. Wrote the books that teach others how.
+Built web apps used by millions. Wrote the books that teach others how.
 
 ---
 
