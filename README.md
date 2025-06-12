@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Den Odell
 
-**Frontend & Fullstack Architect · Author · Developer**  
+**Web App Architect · Author · Developer**  
 Built web apps used by millions. Wrote the books that teach others how.
 
 ---
