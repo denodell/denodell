@@ -18,6 +18,7 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 ---
 
 ### ✍️ Latest from the blog
+- [🕵️‍♂️ Hacking Layout Before CSS Even Existed ](https://denodell.com/blog/hacking-layout-before-css-existed?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🕵️‍♂️ Want To Be a Better Frontend Engineer? Try a Week On-Call ](https://denodell.com/blog/try-a-week-on-call?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 
 Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
