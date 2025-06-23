@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Den Odell
 
-**Web App Architect · Author · Developer**  
-Built interfaces used by millions. Wrote the books that teach others how.
+**Frontend Architect · Author · Developer**  
+Built web apps used by millions. Wrote the books that teach others how.
 
 ---
 
