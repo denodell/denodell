@@ -13,7 +13,7 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 
 ### 🚀 Projects
 - [**ByteShrink**](https://github.com/denodell/byteshrink.dev) — AI tool to analyze and optimize JS bundles via `package.json`
-- [**SpeedLint**](https://github.com/speedlint) — Performance linting and observability for frontend teams
+- Shrinkray - Coming soon. Performance tools for frontend teams
 
 ---
 
