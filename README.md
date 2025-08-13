@@ -18,8 +18,11 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 ---
 
 ### ✍️ Latest from the blog
+- [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 5 on the Hacker News homepage
+- [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [🤖 AI Is Just the Latest Frontend Killer. Don’t Panic.](https://denodell.com/blog/ai-is-just-the-latest-frontend-killer?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🏝️ Building the Web in Islands, Not Mountains ](https://denodell.com/blog/building-the-web-in-islands?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [🕵️‍♂️ Hacking Layout Before CSS Even Existed ](https://denodell.com/blog/hacking-layout-before-css-existed?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [🪏 Hacking Layout Before CSS Even Existed ](https://denodell.com/blog/hacking-layout-before-css-existed?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🕵️‍♂️ Want To Be a Better Frontend Engineer? Try a Week On-Call ](https://denodell.com/blog/try-a-week-on-call?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 
 Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
