@@ -14,7 +14,7 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 ### 🚀 Projects
 - [ByteShrink](https://github.com/denodell/byteshrink.dev) — AI tool to analyze and optimize JS bundles via `package.json`
 - Shrinkray - Coming soon. Performance tools for frontend teams
-- [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered via <canvas>
+- [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered in a `<canvas>`
 
 ---
 
