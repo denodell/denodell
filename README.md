@@ -19,7 +19,7 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 ---
 
 ### ✍️ Latest from the blog
-- [👨‍💻 Code Reviews That Actually Improve Frontend Quality]([https://denodell.com](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [👨‍💻 Code Reviews That Actually Improve Frontend Quality](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 3 on the Hacker News homepage
 - [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🤖 AI Is Just the Latest Frontend Killer. Don’t Panic.](https://denodell.com/blog/ai-is-just-the-latest-frontend-killer?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
