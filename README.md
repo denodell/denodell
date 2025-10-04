@@ -19,6 +19,7 @@ I’ve worked with global brands like **Volvo Cars**, **Nike**, **UNICEF**, **AK
 ---
 
 ### ✍️ Latest from the blog
+- [🧑‍💻 HTML's Best Kept Secret: The <output> Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [👨‍💻 Code Reviews That Actually Improve Frontend Quality](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 3 on the Hacker News homepage
 - [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
