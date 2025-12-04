@@ -20,7 +20,8 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ### ✍️ Latest from the blog
-- [🧑‍💻 HTML's Best Kept Secret: The `<output>` Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - 100,000 reads so far!
+- [🚀 Escape Velocity: Break Free from Framework Gravity](https://denodell.com/blog/escape-velocity-break-free-from-framework-gravity)
+- [🧑‍💻 HTML's Best Kept Secret: The `<output>` Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - 125,000 reads so far!
 - [👨‍💻 Code Reviews That Actually Improve Frontend Quality](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 3 on the Hacker News homepage
 - [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
