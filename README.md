@@ -14,7 +14,7 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ### 🚀 Projects
 - [Fast by Default](https://fastbydefault.com) — A software development model, designed to maintain performance from the outset and continually throughout a project
 - [ByteShrink](https://github.com/denodell/byteshrink.dev) — AI tool to analyze and optimize JS bundles via `package.json`
-- [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered in a `<canvas>` (from my 2014 book "Pro JavaScript Development" (Apress)
+- [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered in a `<canvas>` - from my 2014 book "Pro JavaScript Development" (Apress)
 
 ---
 
