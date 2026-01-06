@@ -11,8 +11,21 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 
 ---
 
+### 📚 Books
+- [Pro JavaScript Development](https://link.springer.com/book/10.1007/978-1-4302-6269-5) (Apress, 2014) — 46K+ reads, 27 academic citations, used at Harbour.Space University
+- [Pro JavaScript RIA Techniques](https://link.springer.com/book/10.1007/978-1-4302-1935-4) (Apress, 2009) — 54 academic citations, held in 344 libraries worldwide
+
+---
+
+### 🌍 Impact
+- My [HTML output tag article](https://denodell.com/blog/html-best-kept-secret-output-tag) inspired [accessibility improvements in Joomla CMS](https://github.com/joomla/joomla-cms/pull/46227)
+- Featured in JavaScript Weekly, Frontend Focus, CSS Weekly, and 10+ other developer newsletters
+- Writing translated/covered in Spanish, Chinese, Korean, Polish, Japanese, and Russian
+
+---
+
 ### 🚀 Projects
-- [Fast by Default](https://fastbydefault.com) — A software development model, designed to maintain performance from the outset and continually throughout a project
+- [Fast by Default](https://fastbydefault.com) — A software development methodology, designed to maintain performance from the outset and continually throughout a project
 - [ByteShrink](https://github.com/denodell/byteshrink.dev) — AI tool to analyze and optimize JS bundles via `package.json`
 - [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered in a `<canvas>` - from my 2014 book "Pro JavaScript Development" (Apress)
 
@@ -23,11 +36,7 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 - [🧑‍💻 HTML's Best Kept Secret: The `<output>` Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - 125,000 reads so far!
 - [👨‍💻 Code Reviews That Actually Improve Frontend Quality](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 3 on the Hacker News homepage
-- [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [🤖 AI Is Just the Latest Frontend Killer. Don’t Panic.](https://denodell.com/blog/ai-is-just-the-latest-frontend-killer?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [🏝️ Building the Web in Islands, Not Mountains ](https://denodell.com/blog/building-the-web-in-islands?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [🪏 Hacking Layout Before CSS Even Existed ](https://denodell.com/blog/hacking-layout-before-css-existed?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [🕵️‍♂️ Want To Be a Better Frontend Engineer? Try a Week On-Call ](https://denodell.com/blog/try-a-week-on-call?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured on the Hacker News homepage
 
 Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 
