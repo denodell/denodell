@@ -62,7 +62,6 @@ Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm
 
 ---
 
-![Den's GitHub stats](https://github-readme-stats.vercel.app/api?username=denodell&show_icons=true&theme=default&hide_rank=true&hide_title=true)
 ![Visitor count](https://komarev.com/ghpvc/?username=denodell&color=blue)
 
 ---
