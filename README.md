@@ -33,9 +33,9 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 
 ### ✍️ Latest from the blog
 - [🚀 Escape Velocity: Break Free from Framework Gravity](https://denodell.com/blog/escape-velocity-break-free-from-framework-gravity)
-- [🧑‍💻 HTML's Best Kept Secret: The `<output>` Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - 125,000 reads so far, and #1 on Hacker News for over 12 hours in a row!
+- [🧑‍💻 HTML's Best Kept Secret: The `<output>` Tag](https://denodell.com/blog/html-best-kept-secret-output-tag?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - #1 on Hacker News, 125k+ reads
 - [👨‍💻 Code Reviews That Actually Improve Frontend Quality](https://denodell.com/blog/code-reviews-that-actually-improve-frontend-quality?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
-- [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured in the top 3 on the Hacker News homepage
+- [💅 We Keep Reinventing CSS, but Styling Was Never the Problem](http://denodell.com/blog/we-keep-reinventing-css?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - #3 on Hacker News
 - [♿︎ The Web Is About to Get Better for Everyone, Everywhere](https://denodell.com/blog/a-better-web-for-everyone-everywhere?utm_source=github&utm_medium=profile&utm_campaign=personal_readme) - Featured on the Hacker News homepage
 
 Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
