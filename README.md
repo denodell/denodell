@@ -12,8 +12,8 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ### 📚 Books
-- [Pro JavaScript Development](https://link.springer.com/book/10.1007/978-1-4302-6269-5) (Apress, 2014) — 46K+ reads, 27 academic citations, used at Harbour.Space University
-- [Pro JavaScript RIA Techniques](https://link.springer.com/book/10.1007/978-1-4302-1935-4) (Apress, 2009) — 54 academic citations, held in 344 libraries worldwide
+- [Pro JavaScript Development](https://link.springer.com/book/10.1007/978-1-4302-6269-5) (Apress, 2014) — 46K+ reads, 27 academic citations, used in courses at Harbour.Space University and APU
+- [Pro JavaScript RIA Techniques](https://link.springer.com/book/10.1007/978-1-4302-1935-4) (Apress, 2009) — 54 academic citations, held in 344 libraries worldwide, used in courses at universities in Spain and Sweden
 
 ---
 
