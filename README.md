@@ -18,7 +18,7 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ### 🌍 Impact
-- My 2025 article [HTML output tag article](https://denodell.com/blog/html-best-kept-secret-output-tag) inspired [accessibility improvements in Joomla CMS](https://github.com/joomla/joomla-cms/pull/46227)
+- My 2025 article on the [HTML output tag](https://denodell.com/blog/html-best-kept-secret-output-tag) inspired [accessibility improvements in Joomla CMS](https://github.com/joomla/joomla-cms/pull/46227)
 - Featured in JavaScript Weekly, Frontend Focus, CSS Weekly, and 10+ other developer newsletters
 - Writing translated/covered in Spanish, Chinese, Korean, Polish, Japanese, and Russian
 
