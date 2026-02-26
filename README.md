@@ -5,33 +5,48 @@ Built web apps used by millions. Wrote the books that teach others how.
 
 ---
 
+## Performance Engineering in Practice
+
+My new book with Manning is now available in early access. It covers how to build software systems that are fast by default, not fast after a firefight.
+
+The first five chapters are out now, covering the business cost of slow performance, user-centered goals, critical paths, and architectural patterns for speed. Examples span web, backend, mobile, and desktop.
+
+If you've ever been stuck in the cycle of shipping, getting complaints, panicking, patching, and repeating, this book offers a way out.
+
+50% launch discount available now: https://hubs.la/Q044cvyR0
+
+---
+
+## About Me
+
 I'm a web engineer with 25+ years of experience, specializing in fast, accessible, and scalable UI architecture.
 
 I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNICEF**, **AKQA**, and **MINI**, and authored two JavaScript books used in universities and cited in academic research. Today, I’m building tools and methodologies that help engineering teams ship better products.
 
 ---
 
-### 📚 Books
+## 📚 Books
+- [Performance Engineering In Practice](https://hubs.la/Q044cvyR0) (Manning, 2026) — Build software systems that are fast by default, not fast after a firefight.
 - [Pro JavaScript Development](https://link.springer.com/book/10.1007/978-1-4302-6269-5) (Apress, 2014) — 46K+ reads, 27 academic citations, used in courses at Harbour.Space University and APU. Also available in Chinese language.
 - [Pro JavaScript RIA Techniques](https://link.springer.com/book/10.1007/978-1-4302-1935-4) (Apress, 2009) — 54 academic citations, held in 344 libraries worldwide, used in courses at universities in Spain and Sweden. Also available in Chinese and Czech languages.
 
 ---
 
-### 🌍 Impact
+## 🌍 Impact
 - My 2025 article on the [HTML output tag](https://denodell.com/blog/html-best-kept-secret-output-tag) inspired [accessibility improvements in Joomla CMS](https://github.com/joomla/joomla-cms/pull/46227)
 - Featured in JavaScript Weekly, Frontend Focus, CSS Weekly, and 10+ other developer newsletters
 - Writing translated/covered in Spanish, Chinese, Korean, Polish, Japanese, and Russian
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 - [Fast by Default](https://fastbydefault.com) — A software development methodology, designed to maintain performance from the outset and continually throughout a project
 - [ByteShrink](https://github.com/denodell/byteshrink.dev) — AI tool to analyze and optimize JS bundles via `package.json`
 - [Frogger](https://github.com/denodell/frogger) - The classic arcade game rendered in a `<canvas>` - from my 2014 book "Pro JavaScript Development" (Apress)
 
 ---
 
-### ✍️ Latest from the blog
+## ✍️ Latest from the blog
 - [📦 Constraints and The Lost Art Of Optimization](https://denodell.com/blog/constraints-and-the-lost-art-of-optimization?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🛑 The Main Thread Is Not Yours](https://denodell.com/blog/the-main-thread-is-not-yours?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🚀 Escape Velocity: Break Free from Framework Gravity](https://denodell.com/blog/escape-velocity-break-free-from-framework-gravity?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
@@ -43,7 +58,7 @@ Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
@@ -55,7 +70,7 @@ Read more at [denodell.com/blog](https://denodell.com/blog?utm_source=github&utm
 
 ---
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 
 - 🌐 [denodell.com](https://denodell.com)
 - 💼 [LinkedIn](https://linkedin.com/in/denodell)
