@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Den Odell
 
-**Frontend Architect · Author · Developer**  
-Built web apps used by millions. Wrote the books that teach others how.
+I’m a developer who believes great software is built at the intersection of engineering and empathy. Technical excellence matters, but only in service of how things feel to the people using them. I write about it here, and sometimes in books. That’s the thread running through 25 years of building for hundreds of millions of people.
 
 ---
 
