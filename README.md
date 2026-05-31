@@ -13,7 +13,7 @@ The first five chapters are out now, covering the business cost of slow performa
 
 If you've ever been stuck in the cycle of shipping, getting complaints, panicking, patching, and repeating, this book offers a way out.
 
-50% launch discount available now: https://hubs.la/Q044cvyR0
+Available now in early access: https://hubs.la/Q044cvyR0
 
 ---
 
