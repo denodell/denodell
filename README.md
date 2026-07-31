@@ -25,7 +25,7 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ## 📚 Books
-- [Performance Engineering In Practice](https://hubs.la/Q044cvyR0) (Manning, 2026) — Build software systems that are fast by default, not fast after a firefight.
+- [Fast by Default: Practical Performance Engineering](https://hubs.la/Q044cvyR0) (Manning, 2026) — Build software systems that are fast by default, not fast after a firefight.
 - [Pro JavaScript Development](https://link.springer.com/book/10.1007/978-1-4302-6269-5) (Apress, 2014) — 46K+ reads, 27 academic citations, used in courses at Harbour.Space University and APU. Also available in Chinese language.
 - [Pro JavaScript RIA Techniques](https://link.springer.com/book/10.1007/978-1-4302-1935-4) (Apress, 2009) — 54 academic citations, held in 344 libraries worldwide, used in courses at universities in Spain and Sweden. Also available in Chinese and Czech languages.
 
@@ -46,7 +46,8 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ## ✍️ Latest from the blog
-- [🕸️ Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
+- [🛁 Your SPA Is Leaking Memory. Soak Test It]([https://denodell.com/blog/browsers-treat-big-sites-differently](https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it)?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [🕸️ Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [📦 Constraints and The Lost Art Of Optimization](https://denodell.com/blog/constraints-and-the-lost-art-of-optimization?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🛑 The Main Thread Is Not Yours](https://denodell.com/blog/the-main-thread-is-not-yours?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🚀 Escape Velocity: Break Free from Framework Gravity](https://denodell.com/blog/escape-velocity-break-free-from-framework-gravity?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
