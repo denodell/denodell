@@ -46,7 +46,7 @@ I’ve worked with global brands like **Canva**, **Volvo Cars**, **Nike**, **UNI
 ---
 
 ## ✍️ Latest from the blog
-- [🛁 Your SPA Is Leaking Memory. Soak Test It]([https://denodell.com/blog/browsers-treat-big-sites-differently](https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it)?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
+- [🛁 Your SPA Is Leaking Memory. Soak Test It](https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🕸️ Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [📦 Constraints and The Lost Art Of Optimization](https://denodell.com/blog/constraints-and-the-lost-art-of-optimization?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [🛑 The Main Thread Is Not Yours](https://denodell.com/blog/the-main-thread-is-not-yours?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
