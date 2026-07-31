@@ -4,7 +4,7 @@ I’m a developer who believes great software is built at the intersection of en
 
 ---
 
-## Performance Engineering in Practice
+## Fast by Default: Practical Performance Engineering
 
 My new book with Manning is now available in early access. It covers how to build software systems that are fast by default, not fast after a firefight.
 
