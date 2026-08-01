@@ -8,7 +8,7 @@ I’m a developer who believes great software is built at the intersection of en
 
 My new book with Manning is now available in early access. It covers how to build software systems that are fast by default, not fast after a firefight.
 
-The first five chapters are out now, covering the business cost of slow performance, user-centered goals, critical paths, and architectural patterns for speed. Examples span web, backend, mobile, and desktop.
+The first eight chapters are out now, covering the business cost of slow performance, user-centered goals, critical paths, and architectural patterns for speed. Examples span web, backend, mobile, and desktop.
 
 If you've ever been stuck in the cycle of shipping, getting complaints, panicking, patching, and repeating, this book offers a way out.
 
