@@ -40,7 +40,6 @@ If you have been stuck in the cycle of shipping, getting complaints, panicking, 
 ## Projects
 
 - [Fast by Default](https://fastbydefault.com): a development methodology for keeping software fast from the outset and throughout a project
-- [Frontend Patterns](https://frontendpatterns.dev): a living reference for frontend architecture and patterns
 - [playwright-soak-test](https://github.com/denodell/playwright-soak-test): a Playwright fixture that repeats a flow, advances the virtual clock, reads DOM node and listener counts, and fails when they climb past their thresholds
 - [ByteShrink](https://github.com/denodell/byteshrink.dev): analyzes and optimizes JavaScript bundles from `package.json`
 - [Frogger](https://github.com/denodell/frogger): the arcade game rendered in a `<canvas>`, from my 2014 book
