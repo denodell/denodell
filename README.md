@@ -23,7 +23,7 @@ If you have been stuck in the cycle of shipping, getting complaints, panicking, 
   - François Best [ran it against nuqs](https://x.com/fortysevenfx/status/2083297456171720991) over 10,000 mount, update, and navigation cycles to verify the library does not leak
   - Aleksandr Smyshliaev credited the article as the origin of [playwright-soak](https://github.com/asmyshlyaev177/playwright-soak), an npm package that adds leak detection to an existing Playwright suite
 - Technical reviewer for O'Reilly Media
-- Two JavaScript books cited in academic research, held in 344 libraries worldwide, and used in university courses in Spain, Sweden, and beyond
+- Two JavaScript books cited in academic research, held in hundreds of libraries worldwide, and used in university courses in the U.S., Spain, Sweden, and beyond
 - Writing featured in JavaScript Weekly, Frontend Focus, CSS Weekly, and 10+ other developer newsletters, and translated or covered in Spanish, Chinese, Korean, Polish, Japanese, and Russian
 - Global Head of Web Development at AKQA (Nike, Ferrari, MINI, UNICEF), Lead Frontend Engineer at Volvo Cars, and most recently Canva
 
