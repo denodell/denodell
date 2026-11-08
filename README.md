@@ -48,6 +48,7 @@ If you have been stuck in the cycle of shipping, getting complaints, panicking, 
 
 ## Writing
 
+- [Design Systems Should Be Fast By Default](https://denodell.com/blog/design-systems-should-be-fast-by-default?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [Your SPA Is Leaking Memory. Soak Test It](https://denodell.com/blog/your-spa-is-leaking-memory-soak-test-it?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
 - [Constraints and The Lost Art Of Optimization](https://denodell.com/blog/constraints-and-the-lost-art-of-optimization?utm_source=github&utm_medium=profile&utm_campaign=personal_readme)
